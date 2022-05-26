@@ -1,0 +1,19 @@
+h1{
+    color: darkmagenta;
+    size: 50px;
+    background-color:bisque; 
+    text-align: center;
+}
+#label{
+    size: 35px;
+    color: rgb(0, 153, 255);
+    text-align: center;
+}
+#button{
+    size:35px;
+    color: crimson;
+    background-color: cyan;
+}
+#div{
+    text-align: center;
+}
